@@ -26,5 +26,11 @@
     <collection id="19" parent="2" name="bq:ssdfffff:jobs"/>
     <collection id="20" parent="2" name="bq:ssdfffff:succeeded"/>
     <collection id="21" parent="2" name="name"/>
+    <collection id="22" parent="2" name="rq:jobs:test"/>
+    <collection id="23" parent="2" name="rq:test:jobs"/>
+    <collection id="24" parent="2" name="rq:test:jobs}"/>
+    <collection id="25" parent="2" name="rq:test:queue"/>
+    <collection id="26" parent="2" name="rs-queue:"/>
+    <collection id="27" parent="2" name="user-session:123"/>
   </database-model>
 </dataSource>
